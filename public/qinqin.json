@@ -1,0 +1,2206 @@
+{
+    "status": 0,
+    "data": {
+    "data": [
+    {
+    "cid": "25",
+    "name": "为你推荐",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01B9RARJ2JJhyUAHxf6_!!2053469401.png",
+    "name": "男士潮服",
+    "api_id": "1818",
+    "jump_url": "/index.php?r=class/cysub&cid=22",
+    "api_cid": "22"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01lbMOAc2JJhydLRRSu_!!2053469401.png",
+    "name": "换季收纳",
+    "api_id": "1801",
+    "jump_url": "/index.php?r=class/cysub&cid=25",
+    "api_cid": "25"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01jovxys2JJhyfk5w9V_!!2053469401.png",
+    "name": "女士专用",
+    "api_id": "1802",
+    "jump_url": "/index.php?r=class/cysub&cid=15",
+    "api_cid": "15"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN016cEUcb2JJhyeFuhyG_!!2053469401.png",
+    "name": "移动电源",
+    "api_id": "569",
+    "jump_url": "/index.php?r=class/cysub&cid=16",
+    "api_cid": "16"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01uiLwGQ2JJhyfk7oXa_!!2053469401.png",
+    "name": "时尚彩妆",
+    "api_id": "1750",
+    "jump_url": "/index.php?r=class/cysub&cid=23",
+    "api_cid": "23"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01YO8lgq2JJhyfk5OsJ_!!2053469401.png",
+    "name": "假日零食",
+    "api_id": "1283",
+    "jump_url": "/index.php?r=class/cysub&cid=19",
+    "api_cid": "19"
+    }
+    ],
+    "name": "热门分类",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01Ntf7uB2JJhyYnjvSF_!!2053469401.png",
+    "name": "当季流行",
+    "api_id": "1804",
+    "jump_url": "/index.php?r=class/cysub&cid=53",
+    "api_cid": "53"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01tvVx3w2JJhyfk4vnD_!!2053469401.png",
+    "name": "畅享音界",
+    "api_id": "1808",
+    "jump_url": "/index.php?r=class/cysub&cid=32",
+    "api_cid": "32"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01DUJtlx2JJhyc4RIpS_!!2053469401.png",
+    "name": "秋冬养生茶",
+    "api_id": "1277",
+    "jump_url": "/index.php?r=class/cysub&cid=29",
+    "api_cid": "29"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN018wUdJi2JJhyclu1AY_!!2053469401.png",
+    "name": "家有萌宝",
+    "api_id": "1546",
+    "jump_url": "/index.php?r=class/cysub&cid=42",
+    "api_cid": "42"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01u7xMnl2JJhyclu5Jo_!!2053469401.png",
+    "name": "好物换新",
+    "api_id": "1819",
+    "jump_url": "/index.php?r=class/cysub&cid=17",
+    "api_cid": "17"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01i682072JJhyYnjSMX_!!2053469401.png",
+    "name": "防寒保暖",
+    "api_id": "1803",
+    "jump_url": "/index.php?r=class/cysub&cid=31",
+    "api_cid": "31"
+    }
+    ],
+    "name": "推荐清单",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "26",
+    "name": "品牌精选",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01t3xOiy2JJhzBYMLAw_!!2053469401.jpg",
+    "name": "达芙妮",
+    "api_id": "1862",
+    "jump_url": "/index.php?r=class/cysub&cid=407",
+    "api_cid": "407"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01PblsGo2JJhxkeU8Dr_!!2053469401.png",
+    "name": "美康粉黛",
+    "api_id": "1693",
+    "jump_url": "/index.php?r=class/cysub&cid=408",
+    "api_cid": "408"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01BG4CPQ2JJhz1EuXgd_!!2053469401.png",
+    "name": "雀巢",
+    "api_id": "1616",
+    "jump_url": "/index.php?r=class/cysub&cid=412",
+    "api_cid": "412"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01mKmGVI2JJhyUW25Dr_!!2053469401.png",
+    "name": "植护",
+    "api_id": "1768",
+    "jump_url": "/index.php?r=class/cysub&cid=389",
+    "api_cid": "389"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01N9rxZE2JJhyzDyUQO_!!2053469401.png",
+    "name": "美特斯邦威",
+    "api_id": "1828",
+    "jump_url": "/index.php?r=class/cysub&cid=410",
+    "api_cid": "410"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01vTM74u2JJhxLK8s4H_!!2053469401.png",
+    "name": "飞跃",
+    "api_id": "1656",
+    "jump_url": "/index.php?r=class/cysub&cid=409",
+    "api_cid": "409"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN010pib2H2JJhx2kw0eB_!!2053469401.png",
+    "name": "回力",
+    "api_id": "1618",
+    "jump_url": "/index.php?r=class/cysub&cid=74",
+    "api_cid": "74"
+    }
+    ],
+    "name": "热门品牌荟",
+    "image": "",
+    "label_name": "更多品牌",
+    "label_image": "",
+    "label_url": "/index.php?r=index/brand"
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01ytCCOa2JJhydZ9u0S_!!2053469401.png",
+    "name": "海底捞",
+    "api_id": "1655",
+    "jump_url": "/index.php?r=class/cysub&cid=382",
+    "api_cid": "382"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01l2aUVe2JJhyc6xjCt_!!2053469401.png",
+    "name": "蒙牛",
+    "api_id": "1635",
+    "jump_url": "/index.php?r=class/cysub&cid=381",
+    "api_cid": "381"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01WZStxM2JJhxLXinMS_!!2053469401.png",
+    "name": "森马",
+    "api_id": "1718",
+    "jump_url": "/index.php?r=class/cysub&cid=414",
+    "api_cid": "414"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01PWAekq2JJhyDuZ8uu_!!2053469401.png",
+    "name": "杜蕾斯",
+    "api_id": "1586",
+    "jump_url": "/index.php?r=class/cysub&cid=379",
+    "api_cid": "379"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01cNt6mG2JJhz32k7ji_!!2053469401.png",
+    "name": "得力",
+    "api_id": "1620",
+    "jump_url": "/index.php?r=class/cysub&cid=380",
+    "api_cid": "380"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN012JJhsi5KNHSSj2F-2053469401.jpg",
+    "name": "舒客",
+    "api_id": "1732",
+    "jump_url": "/index.php?r=class/cysub&cid=337",
+    "api_cid": "337"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01S0GbzT2JJhyxZP2Lv_!!2053469401.png",
+    "name": "心相印",
+    "api_id": "1580",
+    "jump_url": "/index.php?r=class/cysub&cid=341",
+    "api_cid": "341"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01tlf9Fw2JJhyxZN5lW_!!2053469401.png",
+    "name": "蓝月亮",
+    "api_id": "1578",
+    "jump_url": "/index.php?r=class/cysub&cid=136",
+    "api_cid": "136"
+    }
+    ],
+    "name": "品牌优选",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "27",
+    "name": "女装",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01h6msvz2JJhywBzwQN_!!2053469401.png",
+    "name": "羽绒服",
+    "api_id": "1798",
+    "jump_url": "/index.php?r=class/cysub&cid=415",
+    "api_cid": "415"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01G3pQ0f2JJhyEVLBqo_!!2053469401.png",
+    "name": "连衣裙",
+    "api_id": "1340",
+    "jump_url": "/index.php?r=class/cysub&cid=397",
+    "api_cid": "397"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01dA5oTe2JJhyGVBZUk_!!2053469401.png",
+    "name": "潮流外套",
+    "api_id": "1339",
+    "jump_url": "/index.php?r=class/cysub&cid=393",
+    "api_cid": "393"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01LsF0XG2JJhyzXysAR_!!2053469401.png",
+    "name": "秋冬卫衣",
+    "api_id": "1373",
+    "jump_url": "/index.php?r=class/cysub&cid=395",
+    "api_cid": "395"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01mMXhAR2JJhyGWPxyq_!!2053469401.png",
+    "name": "英伦风衣",
+    "api_id": "1704",
+    "jump_url": "/index.php?r=class/cysub&cid=394",
+    "api_cid": "394"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01LT1zWU2JJhyEVKNzd_!!2053469401.png",
+    "name": "休闲套装",
+    "api_id": "1351",
+    "jump_url": "/index.php?r=class/cysub&cid=392",
+    "api_cid": "392"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01IAfaM72JJhz0uOTSK_!!2053469401.png",
+    "name": "衬衫/雪纺",
+    "api_id": "1489",
+    "jump_url": "/index.php?r=class/cysub&cid=396",
+    "api_cid": "396"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01n9ip1w2JJhyJBbP8i_!!2053469401.png",
+    "name": "毛衣/针织衫",
+    "api_id": "1738",
+    "jump_url": "/index.php?r=class/cysub&cid=398",
+    "api_cid": "398"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN019wQj8T2JJhz1oulM1_!!2053469401.png",
+    "name": "基础打底",
+    "api_id": "1313",
+    "jump_url": "/index.php?r=class/cysub&cid=325",
+    "api_cid": "325"
+    }
+    ],
+    "name": "秋冬流行",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01MBjpOZ2JJhx8S15ep_!!2053469401.jpg",
+    "name": "牛仔裤",
+    "api_id": "1391",
+    "jump_url": "/index.php?r=class/cysub&cid=226",
+    "api_cid": "226"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01TTjLOW2JJhx5FDJjF_!!2053469401.jpg",
+    "name": "时髦阔腿裤",
+    "api_id": "1370",
+    "jump_url": "/index.php?r=class/cysub&cid=227",
+    "api_cid": "227"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01nFADiO2JJhyIc4Rbl_!!2053469401.png",
+    "name": "打底裤",
+    "api_id": "1178",
+    "jump_url": "/index.php?r=class/cysub&cid=293",
+    "api_cid": "293"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01Nt0ZUB2JJhx8RzohA_!!2053469401.jpg",
+    "name": "背带裤",
+    "api_id": "1341",
+    "jump_url": "/index.php?r=class/cysub&cid=210",
+    "api_cid": "210"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01iE6mZG2JJhx8RKFuJ_!!2053469401.jpg",
+    "name": "哈伦裤",
+    "api_id": "1492",
+    "jump_url": "/index.php?r=class/cysub&cid=205",
+    "api_cid": "205"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01lur5bt2JJhx9Nevzg_!!2053469401.png",
+    "name": "休闲裤",
+    "api_id": "149",
+    "jump_url": "/index.php?r=class/cysub&cid=291",
+    "api_cid": "291"
+    }
+    ],
+    "name": "百搭裤装",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "28",
+    "name": "男装",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01sdmpRo2JJhy8o3JfB_!!2053469401.png",
+    "name": "潮流卫衣",
+    "api_id": "1487",
+    "jump_url": "/index.php?r=class/cysub&cid=399",
+    "api_cid": "399"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01u56LBu2JJhyK8vZPJ_!!2053469401.png",
+    "name": "长袖衬衣",
+    "api_id": "1744",
+    "jump_url": "/index.php?r=class/cysub&cid=400",
+    "api_cid": "400"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01smghRO2JJhyDNZNZK_!!2053469401.png",
+    "name": "针织衫",
+    "api_id": "1330",
+    "jump_url": "/index.php?r=class/cysub&cid=401",
+    "api_cid": "401"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN0122DVPk2JJhyIjNTdB_!!2053469401.png",
+    "name": "外套/夹克",
+    "api_id": "1742",
+    "jump_url": "/index.php?r=class/cysub&cid=402",
+    "api_cid": "402"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN015ieC6Z2JJhyELMXef_!!2053469401.png",
+    "name": "POLO衫/T恤",
+    "api_id": "1278",
+    "jump_url": "/index.php?r=class/cysub&cid=403",
+    "api_cid": "403"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01MUXYRx2JJhyEYglp9_!!2053469401.png",
+    "name": "商务装",
+    "api_id": "219",
+    "jump_url": "/index.php?r=class/cysub&cid=405",
+    "api_cid": "405"
+    }
+    ],
+    "name": "帅气百搭",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01zrVvLd2JJhxAnbOKR_!!2053469401.jpg",
+    "name": "运动裤",
+    "api_id": "730",
+    "jump_url": "/index.php?r=class/cysub&cid=37",
+    "api_cid": "37"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01X2vNwv2JJhx9QD9xJ_!!2053469401.jpg",
+    "name": "休闲裤",
+    "api_id": "53",
+    "jump_url": "/index.php?r=class/cysub&cid=38",
+    "api_cid": "38"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01gLjuUb2JJhyymWtgP_!!2053469401.png",
+    "name": "工装裤",
+    "api_id": "1833",
+    "jump_url": "/index.php?r=class/cysub&cid=36",
+    "api_cid": "36"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01Cb2axO2JJhx5KaS5Z_!!2053469401.png",
+    "name": "牛仔裤",
+    "api_id": "52",
+    "jump_url": "/index.php?r=class/cysub&cid=35",
+    "api_cid": "35"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01bjz8lL2JJhx7GUysW_!!2053469401.jpg",
+    "name": "九分裤",
+    "api_id": "1636",
+    "jump_url": "/index.php?r=class/cysub&cid=345",
+    "api_cid": "345"
+    }
+    ],
+    "name": "品质下装",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "29",
+    "name": "美食",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01C4slBs2JJhx2jaYcm_!!2053469401.png",
+    "name": "营养早餐",
+    "api_id": "1276",
+    "jump_url": "/index.php?r=class/cysub&cid=73",
+    "api_cid": "73"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN014W0vWc2JJhx5ef80f_!!2053469401.png",
+    "name": "健康饮品",
+    "api_id": "1495",
+    "jump_url": "/index.php?r=class/cysub&cid=78",
+    "api_cid": "78"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01N2xTq02JJhx8OtxM3_!!2053469401.png",
+    "name": "零食小剧场",
+    "api_id": "1494",
+    "jump_url": "/index.php?r=class/cysub&cid=81",
+    "api_cid": "81"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01xwxrPU2JJhx3dFKzL_!!2053469401.png",
+    "name": "火锅",
+    "api_id": "1786",
+    "jump_url": "/index.php?r=class/cysub&cid=65",
+    "api_cid": "65"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01DhbGIo2JJhx2jXsHn_!!2053469401.png",
+    "name": "生鲜水果",
+    "api_id": "947",
+    "jump_url": "/index.php?r=class/cysub&cid=67",
+    "api_cid": "67"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01iJYFKs2JJhx8DgN9e_!!2053469401.png",
+    "name": "粗粮油品",
+    "api_id": "513",
+    "jump_url": "/index.php?r=class/cysub&cid=58",
+    "api_cid": "58"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN016NujAv2JJhx6q6jhq_!!2053469401.png",
+    "name": "营养滋补",
+    "api_id": "1493",
+    "jump_url": "/index.php?r=class/cysub&cid=85",
+    "api_cid": "85"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01gJbEcj2JJhx5eeOHZ_!!2053469401.png",
+    "name": "纤体瘦身",
+    "api_id": "1275",
+    "jump_url": "/index.php?r=class/cysub&cid=71",
+    "api_cid": "71"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN012SZlig2JJhvrvjpjQ-2053469401.png",
+    "name": "增强抵抗力",
+    "api_id": "1679",
+    "jump_url": "/index.php?r=class/cysub&cid=353",
+    "api_cid": "353"
+    }
+    ],
+    "name": "精选推荐",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01BOqGR22JJhx2jZcNV_!!2053469401.png",
+    "name": "方便速食",
+    "api_id": "534",
+    "jump_url": "/index.php?r=class/cysub&cid=124",
+    "api_cid": "124"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01otbHLP2JJhx6VcPXj_!!2053469401.png",
+    "name": "休闲食品",
+    "api_id": "597",
+    "jump_url": "/index.php?r=class/cysub&cid=121",
+    "api_cid": "121"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01POkLe12JJhx6Vb8YN_!!2053469401.png",
+    "name": "零食大礼包",
+    "api_id": "1787",
+    "jump_url": "/index.php?r=class/cysub&cid=119",
+    "api_cid": "119"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01VvS2lv2JJhwyBJu1Q_!!2053469401.png",
+    "name": "糕点饼干",
+    "api_id": "63",
+    "jump_url": "/index.php?r=class/cysub&cid=114",
+    "api_cid": "114"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN010hnGIT2JJhx5Kw4My_!!2053469401.png",
+    "name": "辣条",
+    "api_id": "646",
+    "jump_url": "/index.php?r=class/cysub&cid=104",
+    "api_cid": "104"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN018dNRab2JJhx6pczSZ_!!2053469401.png",
+    "name": "糖果巧克力",
+    "api_id": "870",
+    "jump_url": "/index.php?r=class/cysub&cid=110",
+    "api_cid": "110"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN011dKaxO2JJhx7VtBl0_!!2053469401.png",
+    "name": "智慧坚果",
+    "api_id": "1345",
+    "jump_url": "/index.php?r=class/cysub&cid=116",
+    "api_cid": "116"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01cK7pxI2JJhx7VuGG2_!!2053469401.png",
+    "name": "蜜饯果干",
+    "api_id": "1344",
+    "jump_url": "/index.php?r=class/cysub&cid=106",
+    "api_cid": "106"
+    }
+    ],
+    "name": "人气零食",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01mYLhi02JJhx2jYD37_!!2053469401.png",
+    "name": "花果茶",
+    "api_id": "1501",
+    "jump_url": "/index.php?r=class/cysub&cid=137",
+    "api_cid": "137"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01PHg2aD2JJhx41NAFA_!!2053469401.png",
+    "name": "绿茶",
+    "api_id": "1500",
+    "jump_url": "/index.php?r=class/cysub&cid=141",
+    "api_cid": "141"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01SH3krE2JJhx6paAqb_!!2053469401.png",
+    "name": "红茶",
+    "api_id": "1503",
+    "jump_url": "/index.php?r=class/cysub&cid=138",
+    "api_cid": "138"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01xPeEhR2JJhx8DfEYU_!!2053469401.png",
+    "name": "啤/白酒",
+    "api_id": "1505",
+    "jump_url": "/index.php?r=class/cysub&cid=128",
+    "api_cid": "128"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01UF2TKm2JJhx5hljxK_!!2053469401.png",
+    "name": "咖啡",
+    "api_id": "940",
+    "jump_url": "/index.php?r=class/cysub&cid=142",
+    "api_cid": "142"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01GR4Qtw2JJhx8sOQve_!!2053469401.png",
+    "name": "红酒",
+    "api_id": "1502",
+    "jump_url": "/index.php?r=class/cysub&cid=129",
+    "api_cid": "129"
+    }
+    ],
+    "name": "茶酒饮品",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "30",
+    "name": "美妆",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01RQQQNV2JJhx5ixWPV_!!2053469401.png",
+    "name": "补水保湿",
+    "api_id": "1361",
+    "jump_url": "/index.php?r=class/cysub&cid=265",
+    "api_cid": "265"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN018aV7TY2JJhx7X6Rg1_!!2053469401.png",
+    "name": "控油抗痘",
+    "api_id": "1362",
+    "jump_url": "/index.php?r=class/cysub&cid=262",
+    "api_cid": "262"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01Qb8t3l2JJhx42dRLH_!!2053469401.png",
+    "name": "平价面膜",
+    "api_id": "25",
+    "jump_url": "/index.php?r=class/cysub&cid=257",
+    "api_cid": "257"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01gaQBBI2JJhx5biJDv_!!2053469401.png",
+    "name": "魅惑红唇",
+    "api_id": "72",
+    "jump_url": "/index.php?r=class/cysub&cid=259",
+    "api_cid": "259"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01gQ8tjA2JJhx5M5uIy_!!2053469401.png",
+    "name": "防晒隔离",
+    "api_id": "1294",
+    "jump_url": "/index.php?r=class/cysub&cid=255",
+    "api_cid": "255"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01fv2tm12JJhx5M7JeL_!!2053469401.png",
+    "name": "深层卸妆",
+    "api_id": "1364",
+    "jump_url": "/index.php?r=class/cysub&cid=251",
+    "api_cid": "251"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01hYKz9Q2JJhv4Imhrj-2053469401.png",
+    "name": "美妆工具",
+    "api_id": "1215",
+    "jump_url": "/index.php?r=class/cysub&cid=358",
+    "api_cid": "358"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN019uja5J2JJhwyCWYMv_!!2053469401.png",
+    "name": "男士护肤",
+    "api_id": "1518",
+    "jump_url": "/index.php?r=class/cysub&cid=359",
+    "api_cid": "359"
+    }
+    ],
+    "name": "拔草推荐",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN015VI6JG2JJhx6WnSAL_!!2053469401.png",
+    "name": "护肤套装",
+    "api_id": "317",
+    "jump_url": "/index.php?r=class/cysub&cid=248",
+    "api_cid": "248"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN010hwIpg2JJhx5iwW4u_!!2053469401.png",
+    "name": "洗面奶",
+    "api_id": "1191",
+    "jump_url": "/index.php?r=class/cysub&cid=245",
+    "api_cid": "245"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01MUSa5m2JJhwyCWp11_!!2053469401.png",
+    "name": "爽肤水",
+    "api_id": "1347",
+    "jump_url": "/index.php?r=class/cysub&cid=237",
+    "api_cid": "237"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01tyG46a2JJhx6rIzJm_!!2053469401.png",
+    "name": "眼部护理",
+    "api_id": "76",
+    "jump_url": "/index.php?r=class/cysub&cid=233",
+    "api_cid": "233"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01i4B1jt2JJhx2knLZz_!!2053469401.png",
+    "name": "精华液",
+    "api_id": "1349",
+    "jump_url": "/index.php?r=class/cysub&cid=230",
+    "api_cid": "230"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Tf0MPy2JJhx6Wma85_!!2053469401.png",
+    "name": "乳液/面霜",
+    "api_id": "1348",
+    "jump_url": "/index.php?r=class/cysub&cid=217",
+    "api_cid": "217"
+    }
+    ],
+    "name": "面部护肤",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01PfmFnb2JJhx8Eq4hS_!!2053469401.png",
+    "name": "底妆",
+    "api_id": "24",
+    "jump_url": "/index.php?r=class/cysub&cid=190",
+    "api_cid": "190"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01qffSWy2JJhx3eVLTx_!!2053469401.png",
+    "name": "眉妆",
+    "api_id": "71",
+    "jump_url": "/index.php?r=class/cysub&cid=188",
+    "api_cid": "188"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01QzdAvt2JJhx2kmPQ0_!!2053469401.png",
+    "name": "眼妆",
+    "api_id": "1312",
+    "jump_url": "/index.php?r=class/cysub&cid=187",
+    "api_cid": "187"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01dFjO942JJhx5fnHfG_!!2053469401.png",
+    "name": "口红/唇膏",
+    "api_id": "1253",
+    "jump_url": "/index.php?r=class/cysub&cid=185",
+    "api_cid": "185"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Vdw9cQ2JJhx8tcpXm_!!2053469401.png",
+    "name": "修容遮瑕",
+    "api_id": "1307",
+    "jump_url": "/index.php?r=class/cysub&cid=184",
+    "api_cid": "184"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01lnzrnh2JJhx5M6mNc_!!2053469401.png",
+    "name": "散粉/粉饼",
+    "api_id": "1295",
+    "jump_url": "/index.php?r=class/cysub&cid=181",
+    "api_cid": "181"
+    }
+    ],
+    "name": "彩妆",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "31",
+    "name": "居家日用",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01wVueCD2JJhx8Phhns_!!2053469401.png",
+    "name": "收纳神器",
+    "api_id": "18",
+    "jump_url": "/index.php?r=class/cysub&cid=288",
+    "api_cid": "288"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN013nPEDH2JJhx6qKQeE_!!2053469401.png",
+    "name": "抽纸",
+    "api_id": "1508",
+    "jump_url": "/index.php?r=class/cysub&cid=349",
+    "api_cid": "349"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01aoJgbE2JJhx8tDn1t_!!2053469401.png",
+    "name": "厨房小物件",
+    "api_id": "1514",
+    "jump_url": "/index.php?r=class/cysub&cid=285",
+    "api_cid": "285"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01kiFPQh2JJhw1wZmWa-2053469401.png",
+    "name": "水杯",
+    "api_id": "1284",
+    "jump_url": "/index.php?r=class/cysub&cid=287",
+    "api_cid": "287"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01DE1gMn2JJhx4yf6yv_!!2053469401.png",
+    "name": "绿植园艺",
+    "api_id": "373",
+    "jump_url": "/index.php?r=class/cysub&cid=284",
+    "api_cid": "284"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN012g3bzu2JJhx7Wj55t_!!2053469401.png",
+    "name": "遮阳防潮",
+    "api_id": "765",
+    "jump_url": "/index.php?r=class/cysub&cid=286",
+    "api_cid": "286"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01MmuW382JJhx6qxMsD_!!2053469401.png",
+    "name": "其他纸品",
+    "api_id": "1680",
+    "jump_url": "/index.php?r=class/cysub&cid=350",
+    "api_cid": "350"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01Q6MSn92JJhx6qx6GN_!!2053469401.png",
+    "name": "萌宠用品",
+    "api_id": "366",
+    "jump_url": "/index.php?r=class/cysub&cid=282",
+    "api_cid": "282"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN010QSU1M2JJhx8tBqTe_!!2053469401.png",
+    "name": "衣物晾晒",
+    "api_id": "520",
+    "jump_url": "/index.php?r=class/cysub&cid=283",
+    "api_cid": "283"
+    }
+    ],
+    "name": "生活日用",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/TB23G1wtpuWBuNjSspnXXX1NVXa-2053469401.png",
+    "name": "洗衣液",
+    "api_id": "1228",
+    "jump_url": "/index.php?r=class/cysub&cid=324",
+    "api_cid": "324"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01gZ89m62JJhvsymbpT-2053469401.png",
+    "name": "沐浴香体",
+    "api_id": "1331",
+    "jump_url": "/index.php?r=class/cysub&cid=290",
+    "api_cid": "290"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/TB2lD8Ftv9TBuNjy0FcXXbeiFXa-2053469401.png",
+    "name": "洗发护发",
+    "api_id": "1333",
+    "jump_url": "/index.php?r=class/cysub&cid=299",
+    "api_cid": "299"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01sCvaw62JJhtjF24OK-2053469401.png",
+    "name": "洗漱用品",
+    "api_id": "1233",
+    "jump_url": "/index.php?r=class/cysub&cid=297",
+    "api_cid": "297"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN014RotNt2JJhx89Zv0y_!!2053469401.png",
+    "name": "女性护理",
+    "api_id": "1355",
+    "jump_url": "/index.php?r=class/cysub&cid=289",
+    "api_cid": "289"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01ZpGABG2JJhx8PkBbR_!!2053469401.png",
+    "name": "清洁工具",
+    "api_id": "1512",
+    "jump_url": "/index.php?r=class/cysub&cid=305",
+    "api_cid": "305"
+    }
+    ],
+    "name": "家庭护理",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01ooWabQ2JJhx4ycpfF_!!2053469401.png",
+    "name": "医疗仪器",
+    "api_id": "1515",
+    "jump_url": "/index.php?r=class/cysub&cid=281",
+    "api_cid": "281"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01aqb0xI2JJhx4ydZOI_!!2053469401.png",
+    "name": "避孕套",
+    "api_id": "1338",
+    "jump_url": "/index.php?r=class/cysub&cid=280",
+    "api_cid": "280"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01YQC59w2JJhx6qLu7Z_!!2053469401.png",
+    "name": "按摩仪器",
+    "api_id": "1516",
+    "jump_url": "/index.php?r=class/cysub&cid=279",
+    "api_cid": "279"
+    }
+    ],
+    "name": "医疗保健",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "32",
+    "name": "鞋品",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01VbArbX2JJhwyA5u5G_!!2053469401.png",
+    "name": "帆布鞋",
+    "api_id": "36",
+    "jump_url": "/index.php?r=class/cysub&cid=51",
+    "api_cid": "51"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01kft3Yu2JJhx5ZBDXW_!!2053469401.png",
+    "name": "单鞋",
+    "api_id": "583",
+    "jump_url": "/index.php?r=class/cysub&cid=68",
+    "api_cid": "68"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01yjSme32JJhz0K35Ag_!!2053469401.png",
+    "name": "靴子",
+    "api_id": "1195",
+    "jump_url": "/index.php?r=class/cysub&cid=72",
+    "api_cid": "72"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN011WuUZ42JJhx6UHpwm_!!2053469401.png",
+    "name": "休闲鞋",
+    "api_id": "1465",
+    "jump_url": "/index.php?r=class/cysub&cid=43",
+    "api_cid": "43"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01cPtFSl2JJhx4wYsC2_!!2053469401.png",
+    "name": "板鞋",
+    "api_id": "1378",
+    "jump_url": "/index.php?r=class/cysub&cid=55",
+    "api_cid": "55"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01S5JubZ2JJhx405TVA_!!2053469401.png",
+    "name": "小白鞋",
+    "api_id": "1464",
+    "jump_url": "/index.php?r=class/cysub&cid=57",
+    "api_cid": "57"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01q8H8gK2JJhx2iHnRf_!!2053469401.png",
+    "name": "高跟鞋",
+    "api_id": "821",
+    "jump_url": "/index.php?r=class/cysub&cid=50",
+    "api_cid": "50"
+    }
+    ],
+    "name": "时尚女鞋",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN018nW3KI2JJhx7UatZv_!!2053469401.png",
+    "name": "运动鞋",
+    "api_id": "1446",
+    "jump_url": "/index.php?r=class/cysub&cid=133",
+    "api_cid": "133"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01ZeStzq2JJhutLI2sv-2053469401.png",
+    "name": "休闲鞋",
+    "api_id": "1854",
+    "jump_url": "/index.php?r=class/cysub&cid=417",
+    "api_cid": "417"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/TB2nyfrtDlYBeNjSszcXXbwhFXa-2053469401.png",
+    "name": "小白鞋",
+    "api_id": "1855",
+    "jump_url": "/index.php?r=class/cysub&cid=416",
+    "api_cid": "416"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/TB2IyVGtpmWBuNjSspdXXbugXXa-2053469401.png",
+    "name": "商务皮鞋",
+    "api_id": "1467",
+    "jump_url": "/index.php?r=class/cysub&cid=127",
+    "api_cid": "127"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01BpSlzJ2JJhx5dIXay_!!2053469401.png",
+    "name": "帆布鞋",
+    "api_id": "1469",
+    "jump_url": "/index.php?r=class/cysub&cid=108",
+    "api_cid": "108"
+    }
+    ],
+    "name": "流行男鞋",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "33",
+    "name": "数码家电",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01mvLcXT2JJhx5K2HT4_!!2053469401.png",
+    "name": "蓝牙耳机",
+    "api_id": "1471",
+    "jump_url": "/index.php?r=class/cysub&cid=165",
+    "api_cid": "165"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01jWxVDH2JJhx7UwB1U_!!2053469401.png",
+    "name": "充电宝",
+    "api_id": "569",
+    "jump_url": "/index.php?r=class/cysub&cid=159",
+    "api_cid": "159"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01hfxL9D2JJhx5grY8w_!!2053469401.png",
+    "name": "手机壳",
+    "api_id": "1472",
+    "jump_url": "/index.php?r=class/cysub&cid=149",
+    "api_cid": "149"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01AoiwIm2JJhx5K14bc_!!2053469401.png",
+    "name": "数据线",
+    "api_id": "103",
+    "jump_url": "/index.php?r=class/cysub&cid=162",
+    "api_cid": "162"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01CprrAi2JJhwyARJwM_!!2053469401.png",
+    "name": "手机贴膜",
+    "api_id": "1473",
+    "jump_url": "/index.php?r=class/cysub&cid=148",
+    "api_cid": "148"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01PBkNsd2JJhx5dhqiE_!!2053469401.png",
+    "name": "手机支架",
+    "api_id": "1306",
+    "jump_url": "/index.php?r=class/cysub&cid=145",
+    "api_cid": "145"
+    }
+    ],
+    "name": "手机标配",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01EpnhIF2JJhx8NwLKE_!!2053469401.png",
+    "name": "电脑外设",
+    "api_id": "1231",
+    "jump_url": "/index.php?r=class/cysub&cid=179",
+    "api_cid": "179"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01rg43Fq2JJhx8Ck6MJ_!!2053469401.png",
+    "name": "键盘",
+    "api_id": "1476",
+    "jump_url": "/index.php?r=class/cysub&cid=173",
+    "api_cid": "173"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN0132SUI02JJhwzbGYXD_!!2053469401.png",
+    "name": "鼠标",
+    "api_id": "1475",
+    "jump_url": "/index.php?r=class/cysub&cid=176",
+    "api_cid": "176"
+    }
+    ],
+    "name": "电脑周边",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN019P2i422JJhx40V3Aq_!!2053469401.png",
+    "name": "大家电",
+    "api_id": "1480",
+    "jump_url": "/index.php?r=class/cysub&cid=200",
+    "api_cid": "200"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01mfqMkV2JJhx4wtPsi_!!2053469401.png",
+    "name": "厨房家电",
+    "api_id": "1477",
+    "jump_url": "/index.php?r=class/cysub&cid=221",
+    "api_cid": "221"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01iI69iC2JJhz06eRFp_!!2053469401.png",
+    "name": "电暖器",
+    "api_id": "1856",
+    "jump_url": "/index.php?r=class/cysub&cid=207",
+    "api_cid": "207"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01sxatba2JJhwyATOrT_!!2053469401.png",
+    "name": "榨汁机",
+    "api_id": "1478",
+    "jump_url": "/index.php?r=class/cysub&cid=214",
+    "api_cid": "214"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01ObpkoN2JJhx4wvxuM_!!2053469401.png",
+    "name": "清洁电器",
+    "api_id": "1479",
+    "jump_url": "/index.php?r=class/cysub&cid=204",
+    "api_cid": "204"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01e3V4W72JJhx3cIrgW_!!2053469401.png",
+    "name": "剃须刀",
+    "api_id": "877",
+    "jump_url": "/index.php?r=class/cysub&cid=360",
+    "api_cid": "360"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01wGtUe02JJhx5diaPz_!!2053469401.png",
+    "name": "加湿器",
+    "api_id": "1222",
+    "jump_url": "/index.php?r=class/cysub&cid=361",
+    "api_cid": "361"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01kx8iM92JJhx5dgAmw_!!2053469401.png",
+    "name": "电动牙刷",
+    "api_id": "1481",
+    "jump_url": "/index.php?r=class/cysub&cid=362",
+    "api_cid": "362"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01HRHyUP2JJhx8Cjy0C_!!2053469401.png",
+    "name": "电吹风",
+    "api_id": "105",
+    "jump_url": "/index.php?r=class/cysub&cid=364",
+    "api_cid": "364"
+    }
+    ],
+    "name": "家用电器",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "34",
+    "name": "文娱车品",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01HByWt32JJhx6pN9SL_!!2053469401.png",
+    "name": "办公文具",
+    "api_id": "92",
+    "jump_url": "/index.php?r=class/cysub&cid=203",
+    "api_cid": "203"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01Dz5u442JJhx3cVYI9_!!2053469401.png",
+    "name": "画具画材",
+    "api_id": "807",
+    "jump_url": "/index.php?r=class/cysub&cid=206",
+    "api_cid": "206"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01YqSYzA2JJhx4x5yCC_!!2053469401.png",
+    "name": "考试必备",
+    "api_id": "114",
+    "jump_url": "/index.php?r=class/cysub&cid=215",
+    "api_cid": "215"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01wX5EfQ2JJhx7VA8ij_!!2053469401.png",
+    "name": "书写工具",
+    "api_id": "1285",
+    "jump_url": "/index.php?r=class/cysub&cid=219",
+    "api_cid": "219"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01hh8T5p2JJhx6pMwze_!!2053469401.png",
+    "name": "图书音像",
+    "api_id": "109",
+    "jump_url": "/index.php?r=class/cysub&cid=211",
+    "api_cid": "211"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01QHGIRJ2JJhx5ZkSdV_!!2053469401.png",
+    "name": "艺术礼品",
+    "api_id": "115",
+    "jump_url": "/index.php?r=class/cysub&cid=189",
+    "api_cid": "189"
+    }
+    ],
+    "name": "学习办公",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01pdpfrn2JJhx6UtlX9_!!2053469401.png",
+    "name": "车饰车品",
+    "api_id": "108",
+    "jump_url": "/index.php?r=class/cysub&cid=252",
+    "api_cid": "252"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01vKqJs12JJhx6pNxK0_!!2053469401.png",
+    "name": "车载电器",
+    "api_id": "97",
+    "jump_url": "/index.php?r=class/cysub&cid=247",
+    "api_cid": "247"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01oeEGAW2JJhx4x5haE_!!2053469401.png",
+    "name": "美容清洁",
+    "api_id": "1482",
+    "jump_url": "/index.php?r=class/cysub&cid=249",
+    "api_cid": "249"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01RLbKyD2JJhx5KC5Ci_!!2053469401.png",
+    "name": "舒适乘坐",
+    "api_id": "1483",
+    "jump_url": "/index.php?r=class/cysub&cid=229",
+    "api_cid": "229"
+    }
+    ],
+    "name": "汽车生活",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "35",
+    "name": "内衣",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01cFE0hU2JJhx8qb3YH_!!2053469401.png",
+    "name": "聚拢文胸",
+    "api_id": "1450",
+    "jump_url": "/index.php?r=class/cysub&cid=278",
+    "api_cid": "278"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN0173A26A2JJhx2hnikT_!!2053469401.png",
+    "name": "无钢圈内衣",
+    "api_id": "1451",
+    "jump_url": "/index.php?r=class/cysub&cid=277",
+    "api_cid": "277"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01hLsk5L2JJhx7UB7A5_!!2053469401.png",
+    "name": "文胸套装",
+    "api_id": "1452",
+    "jump_url": "/index.php?r=class/cysub&cid=276",
+    "api_cid": "276"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN016jMU7O2JJhx2hpWzL_!!2053469401.png",
+    "name": "女士内裤",
+    "api_id": "1359",
+    "jump_url": "/index.php?r=class/cysub&cid=275",
+    "api_cid": "275"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01eqUUFz2JJhx3zdkKJ_!!2053469401.png",
+    "name": "男士内裤",
+    "api_id": "1358",
+    "jump_url": "/index.php?r=class/cysub&cid=274",
+    "api_cid": "274"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN017q1Zs22JJhx8Bwck0_!!2053469401.png",
+    "name": "情侣睡衣",
+    "api_id": "1324",
+    "jump_url": "/index.php?r=class/cysub&cid=272",
+    "api_cid": "272"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01OF5Px22JJhz1wg6i7_!!2053469401.png",
+    "name": "长袜/丝袜",
+    "api_id": "1458",
+    "jump_url": "/index.php?r=class/cysub&cid=368",
+    "api_cid": "368"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01n8gf4O2JJhz3Po12b_!!2053469401.png",
+    "name": "男袜",
+    "api_id": "1382",
+    "jump_url": "/index.php?r=class/cysub&cid=367",
+    "api_cid": "367"
+    }
+    ],
+    "name": "秋冬热销",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01DOTCzp2JJhx8BtKfO_!!2053469401.png",
+    "name": "薄款文胸",
+    "api_id": "1453",
+    "jump_url": "/index.php?r=class/cysub&cid=261",
+    "api_cid": "261"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN011wZ0Nz2JJhx6TrJkp_!!2053469401.png",
+    "name": "抹胸/胸贴",
+    "api_id": "1455",
+    "jump_url": "/index.php?r=class/cysub&cid=256",
+    "api_cid": "256"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Q9FgGD2JJhx5crt3g_!!2053469401.png",
+    "name": "无痕文胸",
+    "api_id": "1454",
+    "jump_url": "/index.php?r=class/cysub&cid=258",
+    "api_cid": "258"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01pPlAoI2JJhx3zbnld_!!2053469401.png",
+    "name": "运动文胸",
+    "api_id": "1444",
+    "jump_url": "/index.php?r=class/cysub&cid=253",
+    "api_cid": "253"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01bQthh92JJhx5YhPPa_!!2053469401.png",
+    "name": "睡裙/睡袍",
+    "api_id": "1459",
+    "jump_url": "/index.php?r=class/cysub&cid=239",
+    "api_cid": "239"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/TB23CCrtAyWBuNjy0FpXXassXXa-2053469401.png",
+    "name": "家居服",
+    "api_id": "1460",
+    "jump_url": "/index.php?r=class/cysub&cid=370",
+    "api_cid": "370"
+    }
+    ],
+    "name": "女士内衣",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "36",
+    "name": "母婴",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/TB2ODGutx1YBuNjy1zcXXbNcXXa-2053469401.png",
+    "name": "婴儿玩具",
+    "api_id": "1245",
+    "jump_url": "/index.php?r=class/cysub&cid=267",
+    "api_cid": "267"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01Zw91QU2JJhwy5RIOR_!!2053469401.png",
+    "name": "萌宝潮搭",
+    "api_id": "85",
+    "jump_url": "/index.php?r=class/cysub&cid=269",
+    "api_cid": "269"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN0155jLFU2JJhwj7XZxf_!!2053469401.png",
+    "name": "纸尿裤/拉拉裤",
+    "api_id": "1545",
+    "jump_url": "/index.php?r=class/cysub&cid=263",
+    "api_cid": "263"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01JhBg6b2JJhx8IlyXK_!!2053469401.png",
+    "name": "baby出行",
+    "api_id": "1394",
+    "jump_url": "/index.php?r=class/cysub&cid=264",
+    "api_cid": "264"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN0154bWgR2JJhx5ExtNY_!!2053469401.png",
+    "name": "宝宝寝居",
+    "api_id": "1393",
+    "jump_url": "/index.php?r=class/cysub&cid=266",
+    "api_cid": "266"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01eGcKbF2JJhwz2m3Or_!!2053469401.png",
+    "name": "喂养用品",
+    "api_id": "1552",
+    "jump_url": "/index.php?r=class/cysub&cid=371",
+    "api_cid": "371"
+    }
+    ],
+    "name": "热门推荐",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN0157N6Kp2JJhx8N8eYq_!!2053469401.png",
+    "name": "内衣/袜子",
+    "api_id": "1535",
+    "jump_url": "/index.php?r=class/cysub&cid=228",
+    "api_cid": "228"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN0109EGzJ2JJhx953h98_!!2053469401.png",
+    "name": "男童服装",
+    "api_id": "1537",
+    "jump_url": "/index.php?r=class/cysub&cid=223",
+    "api_cid": "223"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01Rz8Cq32JJhx6WCO3X_!!2053469401.png",
+    "name": "女童服装",
+    "api_id": "1538",
+    "jump_url": "/index.php?r=class/cysub&cid=220",
+    "api_cid": "220"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01j6Rqmt2JJhv8DbIdJ-2053469401.png",
+    "name": "儿童鞋靴",
+    "api_id": "695",
+    "jump_url": "/index.php?r=class/cysub&cid=212",
+    "api_cid": "212"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01gQMfHh2JJhx6WBBFW_!!2053469401.png",
+    "name": "运动鞋",
+    "api_id": "1540",
+    "jump_url": "/index.php?r=class/cysub&cid=216",
+    "api_cid": "216"
+    }
+    ],
+    "name": "服饰鞋履",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01bR1Fcz2JJhx7MnBFu_!!2053469401.png",
+    "name": "益智玩具",
+    "api_id": "1546",
+    "jump_url": "/index.php?r=class/cysub&cid=201",
+    "api_cid": "201"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN011NK0Yc2JJhx954MlN_!!2053469401.png",
+    "name": "遥控模型",
+    "api_id": "1548",
+    "jump_url": "/index.php?r=class/cysub&cid=196",
+    "api_cid": "196"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01nbjBTE2JJhx6WESyl_!!2053469401.png",
+    "name": "毛绒公仔",
+    "api_id": "1549",
+    "jump_url": "/index.php?r=class/cysub&cid=195",
+    "api_cid": "195"
+    }
+    ],
+    "name": "玩具乐器",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "37",
+    "name": "箱包",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN011VOee42JJhx5Yh5Nj_!!2053469401.png",
+    "name": "手提包",
+    "api_id": "443",
+    "jump_url": "/index.php?r=class/cysub&cid=326",
+    "api_cid": "326"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01svOLdM2JJhwy5cqCh_!!2053469401.png",
+    "name": "斜跨包",
+    "api_id": "47",
+    "jump_url": "/index.php?r=class/cysub&cid=322",
+    "api_cid": "322"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01ulrwET2JJhx7Q8EgF_!!2053469401.png",
+    "name": "旅行箱",
+    "api_id": "1408",
+    "jump_url": "/index.php?r=class/cysub&cid=312",
+    "api_cid": "312"
+    }
+    ],
+    "name": "爆款推荐",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01zEa9VW2JJhx7QBWPo_!!2053469401.png",
+    "name": "链条包",
+    "api_id": "49",
+    "jump_url": "/index.php?r=class/cysub&cid=319",
+    "api_cid": "319"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01m2KZaZ2JJhx3XNXLv_!!2053469401.png",
+    "name": "斜跨包",
+    "api_id": "47",
+    "jump_url": "/index.php?r=class/cysub&cid=316",
+    "api_cid": "316"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01bxgDbT2JJhx2deOV7_!!2053469401.png",
+    "name": "双肩包",
+    "api_id": "120",
+    "jump_url": "/index.php?r=class/cysub&cid=313",
+    "api_cid": "313"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01rutoQw2JJhwy5eaIy_!!2053469401.png",
+    "name": "帆布包",
+    "api_id": "1219",
+    "jump_url": "/index.php?r=class/cysub&cid=309",
+    "api_cid": "309"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01hk2Xv02JJhx2deOUS_!!2053469401.png",
+    "name": "单肩包",
+    "api_id": "48",
+    "jump_url": "/index.php?r=class/cysub&cid=301",
+    "api_cid": "301"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01eHp9ao2JJhx7Q92ca_!!2053469401.png",
+    "name": "钱包",
+    "api_id": "43",
+    "jump_url": "/index.php?r=class/cysub&cid=296",
+    "api_cid": "296"
+    }
+    ],
+    "name": "女包",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01XgB44J2JJhx2dfKgc_!!2053469401.png",
+    "name": "单肩/斜挎包",
+    "api_id": "1404",
+    "jump_url": "/index.php?r=class/cysub&cid=300",
+    "api_cid": "300"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01FVgjTl2JJhx7QAqq3_!!2053469401.png",
+    "name": "钱包",
+    "api_id": "1407",
+    "jump_url": "/index.php?r=class/cysub&cid=294",
+    "api_cid": "294"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Qb9Qwb2JJhx4dvXfc_!!2053469401.png",
+    "name": "电脑包",
+    "api_id": "1409",
+    "jump_url": "/index.php?r=class/cysub&cid=292",
+    "api_cid": "292"
+    }
+    ],
+    "name": "男包",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "38",
+    "name": "配饰",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01zmqfbt2JJhx8Af06p_!!2053469401.png",
+    "name": "精美耳饰",
+    "api_id": "1386",
+    "jump_url": "/index.php?r=class/cysub&cid=34",
+    "api_cid": "34"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01YPjxeX2JJhwy8N1iu_!!2053469401.png",
+    "name": "简约手链",
+    "api_id": "1388",
+    "jump_url": "/index.php?r=class/cysub&cid=33",
+    "api_cid": "33"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01rqduv42JJhx6md687_!!2053469401.png",
+    "name": "网红项链",
+    "api_id": "1387",
+    "jump_url": "/index.php?r=class/cysub&cid=27",
+    "api_cid": "27"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01QmIaxR2JJhx3yRy0A_!!2053469401.png",
+    "name": "闪亮指环",
+    "api_id": "1389",
+    "jump_url": "/index.php?r=class/cysub&cid=26",
+    "api_cid": "26"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN010GketN2JJhx3yQtQs_!!2053469401.png",
+    "name": "可爱头饰",
+    "api_id": "79",
+    "jump_url": "/index.php?r=class/cysub&cid=24",
+    "api_cid": "24"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01QdcKqm2JJhx7SwutW_!!2053469401.png",
+    "name": "护目防蓝光",
+    "api_id": "1415",
+    "jump_url": "/index.php?r=class/cysub&cid=383",
+    "api_cid": "383"
+    }
+    ],
+    "name": "秋冬美饰",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01EyiAS72JJhz3SBm8Q_!!2053469401.png",
+    "name": "围巾",
+    "api_id": "1423",
+    "jump_url": "/index.php?r=class/cysub&cid=75",
+    "api_cid": "75"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01LUtVqd2JJhyzq4oA7_!!2053469401.png",
+    "name": "贝雷帽",
+    "api_id": "1858",
+    "jump_url": "/index.php?r=class/cysub&cid=80",
+    "api_cid": "80"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01A0pEmT2JJhx2gWV5C_!!2053469401.png",
+    "name": "鸭舌帽",
+    "api_id": "1420",
+    "jump_url": "/index.php?r=class/cysub&cid=84",
+    "api_cid": "84"
+    }
+    ],
+    "name": "帽子纱巾",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01F9VBiO2JJhwy8NA5e_!!2053469401.png",
+    "name": "石英表",
+    "api_id": "1410",
+    "jump_url": "/index.php?r=class/cysub&cid=63",
+    "api_cid": "63"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/TB2TsEstDJYBeNjy1zeXXahzVXa-2053469401.png",
+    "name": "女表",
+    "api_id": "1639",
+    "jump_url": "/index.php?r=class/cysub&cid=52",
+    "api_cid": "52"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/TB2iybFaHAaBuNjt_igXXb5ApXa-2053469401.png",
+    "name": "眼镜",
+    "api_id": "478",
+    "jump_url": "/index.php?r=class/cysub&cid=60",
+    "api_cid": "60"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01thGDR42JJhx8pM3Sc_!!2053469401.png",
+    "name": "机械表",
+    "api_id": "1411",
+    "jump_url": "/index.php?r=class/cysub&cid=56",
+    "api_cid": "56"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01RH9gDj2JJhx5eq4or_!!2053469401.png",
+    "name": "男表",
+    "api_id": "1413",
+    "jump_url": "/index.php?r=class/cysub&cid=61",
+    "api_cid": "61"
+    }
+    ],
+    "name": "手表眼镜",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "39",
+    "name": "家装家纺",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01axD5UX2JJhx7TMhDC_!!2053469401.png",
+    "name": "四件套",
+    "api_id": "94",
+    "jump_url": "/index.php?r=class/cysub&cid=155",
+    "api_cid": "155"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01cEIsC32JJhx5fFeep_!!2053469401.png",
+    "name": "床上用品",
+    "api_id": "1678",
+    "jump_url": "/index.php?r=class/cysub&cid=365",
+    "api_cid": "365"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01cHDAtt2JJhx5fGveX_!!2053469401.png",
+    "name": "沙发垫",
+    "api_id": "1235",
+    "jump_url": "/index.php?r=class/cysub&cid=147",
+    "api_cid": "147"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01y3P59b2JJhwy8m8RY_!!2053469401.png",
+    "name": "抱枕/枕芯",
+    "api_id": "1712",
+    "jump_url": "/index.php?r=class/cysub&cid=144",
+    "api_cid": "144"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01ehUSSJ2JJhx6n4goM_!!2053469401.png",
+    "name": "餐桌布艺",
+    "api_id": "1427",
+    "jump_url": "/index.php?r=class/cysub&cid=134",
+    "api_cid": "134"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01AKevIe2JJhwy8mjs2_!!2053469401.png",
+    "name": "窗帘窗纱",
+    "api_id": "1430",
+    "jump_url": "/index.php?r=class/cysub&cid=131",
+    "api_cid": "131"
+    }
+    ],
+    "name": "居家布艺",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/TB2vxN6wuSSBuNjy0FlXXbBpVXa-2053469401.png",
+    "name": "墙纸贴饰",
+    "api_id": "786",
+    "jump_url": "/index.php?r=class/cysub&cid=126",
+    "api_cid": "126"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Y6NOcV2JJhx6nYhVp_!!2053469401.png",
+    "name": "家居饰品",
+    "api_id": "1428",
+    "jump_url": "/index.php?r=class/cysub&cid=123",
+    "api_cid": "123"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01sWQkYf2JJhx3yq066_!!2053469401.png",
+    "name": "相框/摆件",
+    "api_id": "1431",
+    "jump_url": "/index.php?r=class/cysub&cid=120",
+    "api_cid": "120"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01vfMo212JJhx8MEKyw_!!2053469401.png",
+    "name": "花瓶/仿真花",
+    "api_id": "1429",
+    "jump_url": "/index.php?r=class/cysub&cid=112",
+    "api_cid": "112"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/TB2.roPk4uTBuNkHFNRXXc9qpXa-2053469401.png",
+    "name": "灯具灯饰",
+    "api_id": "1432",
+    "jump_url": "/index.php?r=class/cysub&cid=107",
+    "api_cid": "107"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01uNnWyt2JJhx5c0Rm9_!!2053469401.png",
+    "name": "简易家具",
+    "api_id": "1433",
+    "jump_url": "/index.php?r=class/cysub&cid=103",
+    "api_cid": "103"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/TB251ratv1TBuNjy0FjXXajyXXa-2053469401.png",
+    "name": "卫浴用品",
+    "api_id": "112",
+    "jump_url": "/index.php?r=class/cysub&cid=98",
+    "api_cid": "98"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01SXSQ2j2JJhtgWqFWp-2053469401.png",
+    "name": "地垫地毯",
+    "api_id": "1303",
+    "jump_url": "/index.php?r=class/cysub&cid=366",
+    "api_cid": "366"
+    }
+    ],
+    "name": "家饰软装",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    },
+    {
+    "cid": "40",
+    "name": "户外运动",
+    "image": "",
+    "banner_img": "",
+    "banner_url": "",
+    "floors": [
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01KV4b3y2JJhx5fbXgD_!!2053469401.png",
+    "name": "健身装备",
+    "api_id": "119",
+    "jump_url": "/index.php?r=class/cysub&cid=132",
+    "api_cid": "132"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01y9PDno2JJhx5cLzu6_!!2053469401.png",
+    "name": "跑鞋",
+    "api_id": "1396",
+    "jump_url": "/index.php?r=class/cysub&cid=130",
+    "api_cid": "130"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01BRau4H2JJhx6nvSfG_!!2053469401.png",
+    "name": "游泳装备",
+    "api_id": "1449",
+    "jump_url": "/index.php?r=class/cysub&cid=100",
+    "api_cid": "100"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Y5g9iW2JJhx8MbdJp_!!2053469401.png",
+    "name": "泳衣",
+    "api_id": "1434",
+    "jump_url": "/index.php?r=class/cysub&cid=140",
+    "api_cid": "140"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01uFPwnB2JJhtnu91Tt-2053469401.png",
+    "name": "球类用品",
+    "api_id": "954",
+    "jump_url": "/index.php?r=class/cysub&cid=125",
+    "api_cid": "125"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/TB2rSl_tuuSBuNjSsplXXbe8pXa-2053469401.png",
+    "name": "瑜伽垫",
+    "api_id": "123",
+    "jump_url": "/index.php?r=class/cysub&cid=113",
+    "api_cid": "113"
+    }
+    ],
+    "name": "热销分类",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01LSUQ6I2JJhwz80id5_!!2053469401.png",
+    "name": "瑜伽",
+    "api_id": "1435",
+    "jump_url": "/index.php?r=class/cysub&cid=92",
+    "api_cid": "92"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01X8D6Kk2JJhx8MeJfc_!!2053469401.png",
+    "name": "跑步",
+    "api_id": "1436",
+    "jump_url": "/index.php?r=class/cysub&cid=87",
+    "api_cid": "87"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01L9bOio2JJhx4veTr7_!!2053469401.png",
+    "name": "游泳",
+    "api_id": "1437",
+    "jump_url": "/index.php?r=class/cysub&cid=86",
+    "api_cid": "86"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Q69rpA2JJhx5Im8VG_!!2053469401.png",
+    "name": "户外游玩",
+    "api_id": "1438",
+    "jump_url": "/index.php?r=class/cysub&cid=82",
+    "api_cid": "82"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01DD7Fk82JJhx5fcgMd_!!2053469401.png",
+    "name": "悠闲垂钓",
+    "api_id": "1439",
+    "jump_url": "/index.php?r=class/cysub&cid=77",
+    "api_cid": "77"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01mQW7092JJhx4vegKw_!!2053469401.png",
+    "name": "徒步登山",
+    "api_id": "1440",
+    "jump_url": "/index.php?r=class/cysub&cid=76",
+    "api_cid": "76"
+    }
+    ],
+    "name": "运动场景",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    },
+    {
+    "list": [
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01rT6FYl2JJhx4vf9Q1_!!2053469401.png",
+    "name": "女士泳装",
+    "api_id": "1441",
+    "jump_url": "/index.php?r=class/cysub&cid=70",
+    "api_cid": "70"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01IutpeX2JJhx3azYuv_!!2053469401.png",
+    "name": "男士泳裤",
+    "api_id": "1447",
+    "jump_url": "/index.php?r=class/cysub&cid=66",
+    "api_cid": "66"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Pf7Qjk2JJhx3b0Moy_!!2053469401.png",
+    "name": "儿童泳装",
+    "api_id": "1448",
+    "jump_url": "/index.php?r=class/cysub&cid=64",
+    "api_cid": "64"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01jrq9N02JJhx5YFTnG_!!2053469401.png",
+    "name": "运动内衣",
+    "api_id": "1444",
+    "jump_url": "/index.php?r=class/cysub&cid=62",
+    "api_cid": "62"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01RbcQz62JJhx8Mby9i_!!2053469401.png",
+    "name": "瑜伽服",
+    "api_id": "1443",
+    "jump_url": "/index.php?r=class/cysub&cid=59",
+    "api_cid": "59"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i4/2053469401/O1CN01JfjfFc2JJhx6TPKAQ_!!2053469401.png",
+    "name": "运动服装",
+    "api_id": "1445",
+    "jump_url": "/index.php?r=class/cysub&cid=54",
+    "api_cid": "54"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01zB0bVy2JJhx5Ikf2g_!!2053469401.png",
+    "name": "女士运动鞋",
+    "api_id": "1442",
+    "jump_url": "/index.php?r=class/cysub&cid=49",
+    "api_cid": "49"
+    },
+    {
+    "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01R9By4S2JJhx8MemmW_!!2053469401.png",
+    "name": "男士运动鞋",
+    "api_id": "1446",
+    "jump_url": "/index.php?r=class/cysub&cid=47",
+    "api_cid": "47"
+    }
+    ],
+    "name": "运动鞋服",
+    "image": "",
+    "label_name": "",
+    "label_image": "",
+    "label_url": ""
+    }
+    ]
+    }
+    ]
+    },
+    "msg": ""
+    }
